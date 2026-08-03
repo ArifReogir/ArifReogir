@@ -45,13 +45,7 @@ I am a **Bachelor of Information Technology** student at **Macquarie University*
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <!-- Alternative Stats Card -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Reogir007&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<!-- Alternative Top Languages Card -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Reogir007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=ArifReogir)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ---
 
